@@ -1,0 +1,3 @@
+The general code infrastructure of this version is based on the open source fluidsv3 (http://fluids3.com). Compiling environment is similar to it. If you face compiling issues, try first compiling the fluidsv3 project and then copy/paste the porous fluid code replacing the simulator functions. 
+
+The two vs solutions should be able to repeat one of our examples each, directly after successfully compiling.
